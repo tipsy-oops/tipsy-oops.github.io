@@ -12,6 +12,9 @@
 - X: [@tenbobank](https://x.com/tenbobank)
 - お問い合わせ: tenbobank@gmail.com
 
-### 日記アプリ
+### 誰と日記(ダレト)
 
-準備中。
+「誰と」を付けて書く日記アプリ。会った人ごとに、その人とのできごとを読み返せます。誰にも見せない、端末の中だけの日記です。iOS / Android 版を準備中です。
+
+- [プライバシーポリシー](./dareto/privacy/)
+- お問い合わせ: daretonikki@gmail.com
